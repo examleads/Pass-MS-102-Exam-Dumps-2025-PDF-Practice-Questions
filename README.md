@@ -29,7 +29,7 @@ We stand by the quality of the practice material shared here. If you’ve purcha
 
 Just contact the respective platform’s support with your order details — no questions asked. Our goal is to help you pass, not to profit from confusion.
 
-[MS-102 Practice Questions Preview](./sample-questions.png)
+[MS-102 Practice Questions Preview](MS-102-Top-10-Practice-Questions-2025.pdf)
 
 
 
