@@ -1,3 +1,7 @@
+[![PDF Size](https://img.shields.io/github/size/examleads/Pass-MS-102-Exam-Dumps-2025-PDF-Practice-Questions/MS-102-Top-10-Practice-Questions-2025.pdf?label=PDF%20Size)](./MS-102-Top-10-Practice-Questions-2025.pdf)
+[![Last Commit](https://img.shields.io/github/last-commit/examleads/Pass-MS-102-Exam-Dumps-2025-PDF-Practice-Questions)](https://github.com/examleads/Pass-MS-102-Exam-Dumps-2025-PDF-Practice-Questions/commits/main)
+
+
 # ✅ MS-102 Exam Practice Questions (2025 Edition)
 
 🎯 Preparing for the **Microsoft MS-102: Microsoft 365 Administrator** exam? Here's a curated collection of **practice questions and concepts** based on feedback, community discussions, and publicly available sources.
