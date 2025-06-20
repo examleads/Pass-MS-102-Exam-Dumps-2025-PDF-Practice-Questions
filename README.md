@@ -29,9 +29,7 @@ We stand by the quality of the practice material shared here. If you’ve purcha
 
 Just contact the respective platform’s support with your order details — no questions asked. Our goal is to help you pass, not to profit from confusion.
 
-## 📥 Download PDF
 
-> 📎 [Click here to download the practice questions PDF](https://www.realexamcollection.com/Microsoft/MS-102-exam-questions.html)
 
 *(Use for practice only. Always pair with Microsoft Learn & hands-on labs.)*
 
