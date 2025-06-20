@@ -1,9 +1,11 @@
 # ✅ MS-102 Exam Practice Questions (2025 Edition)
 
 🎯 Preparing for the **Microsoft MS-102: Microsoft 365 Administrator** exam? Here's a curated collection of **practice questions and concepts** based on feedback, community discussions, and publicly available sources.
+
 https://www.realexamcollection.com/microsoft/ms-102-dumps.html
-## 📚 What This Contains
-- 📄 400+ Practice Questions (PDF Format)
+
+## 📚 What This Repo Contains
+- 📄 10 Sample Practice Questions (PDF Format)
 - 📌 Based on community-shared experiences & training insights
 - 🔁 Useful for revision and self-assessment
 - ✅ Updated for 2025 topics
