@@ -1,0 +1,79 @@
+1. You need to assign a Microsoft 365 license to a user in Azure Active Directory. Which portal should you use?
+A. Microsoft Defender Portal
+B. Azure AD Admin Center
+C. Microsoft 365 Admin Center
+D. Endpoint Manager
+
+✅ Answer: C
+
+2. You want to implement password protection and multi-factor authentication (MFA) for all guest users. What should you configure?
+A. Azure AD Connect
+B. Conditional Access Policy
+C. Intune Compliance Policy
+D. Microsoft Defender for Identity
+
+✅ Answer: B
+
+3. A user reports that they can’t access their Exchange Online mailbox. What’s the first tool you should use to check the service status?
+A. Exchange Admin Center
+B. Microsoft 365 Service Health Dashboard
+C. Azure Monitor
+D. Microsoft Defender Portal
+
+✅ Answer: B
+
+  4. What tool helps automate onboarding tasks for new Microsoft 365 tenants?
+A. Microsoft FastTrack
+B. Microsoft Learn
+C. Office Deployment Tool
+D. Compliance Manager
+
+✅ Answer: A
+
+    5. Which Microsoft 365 service allows centralized management of device compliance and security baselines?
+A. Intune
+B. Azure AD
+C. Endpoint DLP
+D. Azure Sentinel
+
+✅ Answer: A
+
+    6. You want to monitor risky sign-ins and compromised accounts in your organization. Which feature should you use?
+A. Microsoft Defender for Office 365
+B. Azure AD Identity Protection
+C. Compliance Center Alerts
+D. Security & Compliance Score
+
+✅ Answer: B
+
+7. Which report provides insights into user productivity and app usage across Microsoft 365 services?
+A. Audit Log Search
+B. Cloud App Security Discovery
+C. Productivity Score
+D. Intune Analytics
+
+✅ Answer: C
+
+  8. You want to allow external users to collaborate in Microsoft Teams. Which setting should you configure?
+A. Azure AD Identity Governance
+B. External Sharing Settings in SharePoint
+C. Microsoft Teams Guest Access
+D. Endpoint Manager Access Control
+
+✅ Answer: C
+
+  9. Which Microsoft 365 service helps define retention policies and data lifecycle management?
+A. Purview Compliance Portal
+B. Azure AD Connect
+C. Microsoft Defender for Endpoint
+D. Exchange Online Protection
+
+✅ Answer: A
+
+  10. You want to enforce encryption on all emails with sensitive data. What should you configure?
+A. DLP Policy in Exchange
+B. Retention Labels
+C. Intune Email Policy
+D. Microsoft Defender Plan 2
+
+✅ Answer: A
