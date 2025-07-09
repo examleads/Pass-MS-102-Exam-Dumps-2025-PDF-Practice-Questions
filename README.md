@@ -1,6 +1,6 @@
 [![PDF Size](https://img.shields.io/github/size/examleads/Pass-MS-102-Exam-Dumps-2025-PDF-Practice-Questions/MS-102-Top-10-Practice-Questions-2025.pdf?label=PDF%20Size)](./MS-102-Top-10-Practice-Questions-2025.pdf)
 [![Last Commit](https://img.shields.io/github/last-commit/examleads/Pass-MS-102-Exam-Dumps-2025-PDF-Practice-Questions)](https://github.com/examleads/Pass-MS-102-Exam-Dumps-2025-PDF-Practice-Questions/commits/main)
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=examleads.ms102)
 
 # ✅ MS-102 Exam Practice Questions (2025 Edition)
 
